@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Practice Python",
+        "due_date": "2026-10-16",
+        "priority": "Medium",
+        "completed": false
+    },
+    {
+        "description": "Learn Python",
+        "due_date": "2026-10-20",
+        "priority": "High",
+        "completed": false
+    }
+]
